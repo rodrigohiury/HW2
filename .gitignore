@@ -1,0 +1,15 @@
+my-venv/bin/
+my-venv/lib/
+my-venv/lib64/
+my-venv/include/
+my-venv/pyvenv.cfg
+my-venv/.Python
+my-venv/.gitignore
+my-venv/.git/
+my-venv/.gitmodules
+my-venv/.gitattributes
+my-venv/.gitkeep
+my-venv/.gitlab-ci.yml
+my-venv/.gitlab/
+my-venv/share/
+my-venv/lib64
