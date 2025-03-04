@@ -13,3 +13,4 @@ my-venv/.gitlab-ci.yml
 my-venv/.gitlab/
 my-venv/share/
 my-venv/lib64
+graphs/*
