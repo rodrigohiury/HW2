@@ -13,13 +13,13 @@ Este é o Homework 2 da disciplina de Inteligência Computacional Aplicada do cu
 Para executar esse projeto, é necessário, primeiramente a configuração do ambiente virtual do Python.
 
 1. CRIAR AMBIENTE
- python -m venv .venv
+<code>python -m venv .venv</code>
 
 2. ATIVAR AMBIENTE
- source .venv/bin/activate
+<code>source .venv/bin/activate</code>
 
 3. INSTALAR DEPENDÊNCIAS
- pip install -r requirements.txt 
+<code>pip install -r requirements.txt</code>
 
 
 ## Projeto
