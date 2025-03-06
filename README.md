@@ -1,7 +1,7 @@
 # HOMEWORK 2 - Inteligência Computacional Aplicada
 
 Este é o Homework 2 da disciplina de Inteligência Computacional Aplicada do curso de Engenharia de Computação na Universidade Federal do Ceará.
-[Link deste repositório](https://github.com/rodrigohiury/HW2)
+[Link do repositório no GitHub](https://github.com/rodrigohiury/HW2)
 
 ## Membros do grupo:
 - Rodrigo Hiury
