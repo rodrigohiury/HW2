@@ -6,7 +6,6 @@ Este é o Homework 2 da disciplina de Inteligência Computacional Aplicada do cu
 - Rodrigo Hiury
 - Ian Lopes
 - Cauê Melo
-- Gabriel dos Reis
 
 ## Configuração Inicial
 
